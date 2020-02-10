@@ -125,7 +125,6 @@ pubsub-light:1.13
 blueocean-jira:1.22.0
 durable-task:1.33
 jsch:0.1.55.2
-htmlpublisher:1.2.1
 pipeline-stage-step:2.3
 mapdb-api:1.0.9.0
 ssh:2.6.1
