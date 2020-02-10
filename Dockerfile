@@ -1,4 +1,5 @@
-FROM jenkins/jenkins:2.112
+#FROM jenkins/jenkins:2.112
+FROM jenkins/jenkins:2.179
 USER root
 RUN apt-get update && apt-get install -y make git openjdk-8-jdk
 USER jenkins
